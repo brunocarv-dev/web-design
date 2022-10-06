@@ -1,0 +1,36 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-variant: normal;
+  color: #f00;
+  background-color: yellow;
+  margin-left: 0;
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 400px;
+  height: 70px;
+}
+
+body {
+  background-color: #ccc;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #12de5a;
+  background-color: #111111;
+  border-top: solid 10px blue;
+}
+
+p {
+  font-variant: normal;
+  text-align: left;
+  text-decoration: line-through;
+  text-indent: 20px;
+  text-transform: none;
+  margin-bottom: 30px
+}
