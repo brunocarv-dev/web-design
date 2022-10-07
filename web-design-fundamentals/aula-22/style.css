@@ -1,0 +1,32 @@
+body {
+  margin: 10%
+}
+
+h1 {
+  font-family: Arial;
+  background-color: #ffc973;
+  color: #b74414;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  background-color: #db9192;
+  color: #ff2a37;
+  padding: 1%;
+  border-bottom-style: solid;
+  border-bottom-color: #ff2a37;
+  border-bottom-width: 2px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  color: #9697a9;
+}
+
+li {
+  color: #9697a9
+}
