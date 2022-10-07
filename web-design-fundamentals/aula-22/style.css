@@ -1,9 +1,10 @@
 body {
-  margin: 10%
+  margin: 10%;
+  font-family: sans-serif;
 }
 
 h1 {
-  font-family: Arial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #ffc973;
   color: #b74414;
   margin: auto;
@@ -29,4 +30,9 @@ p {
 
 li {
   color: #9697a9
+}
+
+.destaque {
+  font-weight: bold;
+  color: #000;
 }
