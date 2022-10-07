@@ -28,8 +28,14 @@ p {
   color: #9697a9;
 }
 
+ul {
+  padding-left: 0;
+  list-style: inside;
+}
+
 li {
-  color: #9697a9
+  color: #9697a9;
+  padding-left: 0;
 }
 
 .destaque {
