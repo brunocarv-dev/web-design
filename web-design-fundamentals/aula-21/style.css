@@ -1,3 +1,30 @@
 p, li {
   font-family: sans-serif;
+  color: green;
+}
+
+a:hover {
+  color: red;
+  background-color: #ccc;
+}
+
+a:link{
+  color: cadetblue;
+}
+
+a:visited {
+  color: red
+}
+
+a:active {
+  color: orange;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+ol li {
+  list-style-type: lower-alpha;
+  list-style-position: outside;
 }
